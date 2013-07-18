@@ -1,4 +1,4 @@
-WordTwit Error Log
+WordTwit Tweet Failed
 ==================
 
 For information related to this plugin check [Plugish.com](http://plugish.com/ "View plugin on Plugish.com")
