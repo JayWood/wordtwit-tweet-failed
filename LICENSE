@@ -290,7 +290,7 @@ to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    A FREE plugin for WordPress to show administrators a reason as to why the tweet failed
+    A more verbose error log of failed tweets with references to why they may have failed.
     Copyright (C) 2013  JayWood
 
     This program is free software; you can redistribute it and/or modify
