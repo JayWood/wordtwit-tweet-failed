@@ -1,6 +1,6 @@
 <?
 /*
-Plugin Name: WordTwit Error Log
+Plugin Name: WordTwit Tweet Failed
 Plugin URI: http://plugish.com/plugins/wordtwit-error-log
 Version: 1.0
 Description: Built to allow a more 'Verbose' output of WordTwit errors.
